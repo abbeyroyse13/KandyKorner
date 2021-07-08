@@ -1,0 +1,15 @@
+{
+    "locations": [{
+            "id": 1,
+            "address": "666 HellFire Ave",
+            "square footage": 12000,
+            "handicap accessible": false
+        },
+        {
+            "id": 2,
+            "address": "1987 Pizza Place",
+            "square footage": 13456,
+            "handicap accessible": true
+        }
+    ]
+}
